@@ -2,11 +2,11 @@
 
 var fitnessTutorialControllers = angular.module('fitnessTutorialControllers', []);
 
-fitnessTutorialControllers.controller('routeCtrl',
-	function($scope){
-		$scope.template = {
-			"navbar": "partials/navbar.html",
-			"footer": "partials/footer.html"
-		};
-});
-
+fitnessTutorialControllers.controller('homeCtrl', ['$scope', '$http',
+  function($scope, $http) {
+  	$http.get('exercises/muscleGroups.json').success(function(data) {
+  	$scope.exercises = data;
+  	console.log(data)
+  	});
+  	$scope.orderProp = 'muscleGroup';
+  }]);

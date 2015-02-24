@@ -3,6 +3,7 @@
 var fitnessTutorialApp = angular.module('fitnessTutorialApp', [
 	'ngRoute',
 	'fitnessTutorialControllers'
+	// 'fitnessTutorialServices'
 	]);
 
 fitnessTutorialApp.config(['$routeProvider',
@@ -10,7 +11,7 @@ fitnessTutorialApp.config(['$routeProvider',
 		$routeProvider.
 		when('/home', {
 			templateUrl: 'partials/home.html',
-			controller: 'routeCtrl'
+			controller: 'homeCtrl',
 		}).
 		otherwise({
 			redirectTo: '/home'

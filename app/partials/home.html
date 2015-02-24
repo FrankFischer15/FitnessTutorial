@@ -1,51 +1,33 @@
 <div id="homepage">
-        <div class="jumbotron">
-            <div class="container">
-                <h1>Hello, Fitness World!</h1>
-                <p>"This is a template homepage for the FitnessTutorial applicatiion website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique."</p>
-                <p>
-                    <a class="btn btn-primary btn-lg" href="#" role="button">Click Button ≥≥</a>
-                </p>
+    <div class="jumbotron">
+        <div class="container">
+            <h1>Hello, Fitness World!</h1>
+            <p>"This is a template homepage for the FitnessTutorial applicatiion website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique."</p>
+            <p>
+                <a class="btn btn-primary btn-lg" href="#" role="button">Click Button ≥≥</a>
+            </p>
 
-            </div>
         </div>
     </div>
+</div>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4 col-md-offset-4">
-                <h2>Tutorial Heading</h2>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                <p>
-                    <a class="btn btn-default" href="#" role="button">View details ≥≥</a>
-                </p>
-            </div>
-            <div class="col-md-4">
-            </div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+            <h2>Tutorial Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <p>
+                <a class="btn btn-default" href="#" role="button">View details ≥≥</a>
+            </p>
         </div>
-        <hr>
-        <div class="row">
-            <div class="col-md-4">
-                <h3>Muscle Group</h3>
-                <img src=".jpg" />
-            </div>
-            <div class="col-md-4">
-                <h3>Muscle Group</h3>
-                <img src=".jpg" />
-            </div>
-            <div class="col-md-4">
-                <h3>Muscle Group</h3>
-                <img src=".jpg" />
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <h3>Muscle Group</h3>
-                <img src=".jpg" />
-            </div>
-            <div class="col-md-6">
-                <h3>Muscle Group</h3>
-                <img src=".jpg" />
-            </div>
+        <div class="col-md-4">
         </div>
     </div>
+    <hr>
+    <div class="muscle-carousel">
+        <div ng-repeat="targetArea in exercises | orderBy:orderProp" class="muscleGroup">
+            <a href="#/exercises/{{targetArea.muscleGroup}}">{{targetArea.muscleGroup}}</a>
+            <a href="#/exercises/{{targetArea.muscleGroup}}"><img src="{{targetArea.imageUrl}}" /></a>
+        </div>
+    </div>
+</div>
