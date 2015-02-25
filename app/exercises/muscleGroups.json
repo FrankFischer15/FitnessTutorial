@@ -1,22 +1,16 @@
-[
-	{
-	"muscleGroup": "Arms",
-	"imageUrl": "images/placeHolder.png"
-	},
-	{
-	"muscleGroup": "Chest",
-	"imageUrl": "images/placeHolder.png"
-	},
-	{
-	"muscleGroup": "Back",
-	"imageUrl": "images/placeHolder.png"
-	},
-	{
-	"muscleGroup": "Core",
-	"imageUrl": "images/placeHolder.png"
-	},
-	{
-	"muscleGroup": "Legs",
-	"imageUrl": "images/placeHolder.png"
-	}
-]
+[{
+    "muscleGroup": "Arms",
+    "imageUrl": "images/placeHolder.png"
+}, {
+    "muscleGroup": "Chest",
+    "imageUrl": "images/placeHolder.png"
+}, {
+    "muscleGroup": "Back",
+    "imageUrl": "images/placeHolder.png"
+}, {
+    "muscleGroup": "Core",
+    "imageUrl": "images/placeHolder.png"
+}, {
+    "muscleGroup": "Legs",
+    "imageUrl": "images/placeHolder.png"
+}]
