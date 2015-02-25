@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Arms 1",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Arms 2",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Arms 3",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Back 1",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Back 2",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Back 3",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Chest 1",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Chest 2",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Chest 3",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Core 1",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Core 2",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Core 3",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Legs 1",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Legs 2",
+        "imageUrl": "images/placeHolder.png"
+    },
+    {
+        "name": "Legs 3",
+        "imageUrl": "images/placeHolder.png"
+    }
+]

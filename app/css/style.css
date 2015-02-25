@@ -1,8 +1,9 @@
-.muscleGroup {
-  margin: 15px;
+.muscleGroup a {
+	text-align: center;
+	width: auto;
+	height: auto;
 }
-.muscleGroup img{
-  display: block;
-  width: 100%;
-  height: auto;
+.muscleGroup img {
+	width: 100%;
+	height: auto;	
 }

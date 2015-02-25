@@ -24,10 +24,12 @@
         </div>
     </div>
     <hr>
-    <div class="muscle-carousel">
-        <div ng-repeat="targetArea in exercises | orderBy:orderProp" class="muscleGroup">
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div ng-repeat="targetArea in muscleGroups | orderBy:orderProp" class="col-sm-2 muscleGroup">
             <a href="#/exercises/{{targetArea.muscleGroup}}"><h2>{{targetArea.muscleGroup}}</h2></a>
             <a href="#/exercises/{{targetArea.muscleGroup}}"><img src="{{targetArea.imageUrl}}" /></a>
         </div>
+        <div class="col-sm-1"></div>
     </div>
 </div>
