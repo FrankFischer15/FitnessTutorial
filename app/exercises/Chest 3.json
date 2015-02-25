@@ -1,9 +1,9 @@
 {
-    "name": "pushups",
+    "name": "Chest 3",
     "imageUrl": [
-        "images/pushup.png",
-        "images/pushup.png",
-        "images/pushup.png"
+        "images/placeHolder.png"
+        "images/placeHolder.png"
+        "images/placeHolder.png"
     ],
     "area": "chest",
     "instructions": [

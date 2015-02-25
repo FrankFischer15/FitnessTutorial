@@ -1,9 +1,9 @@
 {
-    "name": "squats",
+    "name": "Legs 3",
     "imageUrl": [
-        "images/squat.png"
-        "images/squat.png"
-        "images/squat.png"
+        "images/placeHolder.png"
+        "images/placeHolder.png"
+        "images/placeHolder.png"
     ],
     "area": "legs",
     "instructions": [

@@ -1,9 +1,9 @@
 {
-    "name": "pullups",
+    "name": "Back 1",
     "imageUrl": [
-        "images/pullup.png"
-        "images/pullup.png"
-        "images/pullup.png"
+        "images/placeHolder.png"
+        "images/placeHolder.png"
+        "images/placeHolder.png"
     ],
     "area": "back",
     "instructions": [

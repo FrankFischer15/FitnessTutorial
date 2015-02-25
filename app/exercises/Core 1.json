@@ -1,11 +1,11 @@
 {
-    "name": "Chest 1",
+    "name": "Core 1",
     "imageUrl": [
-        "images/placeHolder.png"
-        "images/placeHolder.png"
+        "images/placeHolder.png",
+        "images/placeHolder.png",
         "images/placeHolder.png"
     ],
-    "area": "chest",
+    "area": "core",
     "instructions": [
         "instruction1"
         "instruction2"

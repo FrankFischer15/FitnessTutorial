@@ -1,11 +1,11 @@
 {
-    "name": "situps",
+    "name": "Legs 1",
     "imageUrl": [
-        "images/situp.png",
-        "images/situp.png",
-        "images/situp.png"
+        "images/placeHolder.png"
+        "images/placeHolder.png"
+        "images/placeHolder.png"
     ],
-    "area": "core",
+    "area": "legs",
     "instructions": [
         "instruction1"
         "instruction2"
