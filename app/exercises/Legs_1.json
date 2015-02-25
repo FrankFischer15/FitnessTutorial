@@ -1,14 +1,14 @@
 {
-    "name": "Core 3",
+    "name": "Legs 1",
     "imageUrl": [
         "images/placeHolder.png",
         "images/placeHolder.png",
         "images/placeHolder.png"
     ],
-    "area": "core",
+    "area": "legs",
     "instructions": [
-        "instruction1"
-        "instruction2"
+        "instruction1",
+        "instruction2",
         "instruction3"
     ],
     "breath-rep": "four-count",

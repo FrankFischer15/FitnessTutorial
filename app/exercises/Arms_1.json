@@ -1,14 +1,14 @@
 {
-    "name": "Back 3",
+    "name": "Arms 1",
     "imageUrl": [
-        "images/placeHolder.png"
-        "images/placeHolder.png"
+        "images/dips.png",
+        "images/placeHolder.png",
         "images/placeHolder.png"
     ],
-    "area": "back",
+    "area": "arms",
     "instructions": [
-        "instruction1"
-        "instruction2"
+        "instruction1",
+        "instruction2",
         "instruction3"
     ],
     "breath-rep": "four-count",

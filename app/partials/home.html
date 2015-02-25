@@ -27,8 +27,8 @@
     <div class="row">
         <div class="col-sm-1"></div>
         <div ng-repeat="targetArea in muscleGroups | orderBy:orderProp" class="col-sm-2 muscleGroup">
-            <a href="#/exercises/{{targetArea.muscleGroup}}"><h2>{{targetArea.muscleGroup}}</h2></a>
-            <a href="#/exercises/{{targetArea.muscleGroup}}"><img src="{{targetArea.imageUrl}}" /></a>
+            <a href="#/muscleGroup/{{targetArea.muscleGroup}}"><h2>{{targetArea.muscleGroup}}</h2></a>
+            <a href="#/muscleGroup/{{targetArea.muscleGroup}}"><img src="{{targetArea.imageUrl}}" /></a>
         </div>
         <div class="col-sm-1"></div>
     </div>
