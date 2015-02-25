@@ -1,0 +1,8 @@
+.muscleGroup {
+  margin: 15px;
+}
+.muscleGroup img{
+  display: block;
+  width: 100%;
+  height: auto;
+}

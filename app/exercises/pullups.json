@@ -1,0 +1,16 @@
+{
+    "name": "pullups",
+    "imageUrl": [
+        "images/pullup.png"
+        "images/pullup.png"
+        "images/pullup.png"
+    ],
+    "area": "back",
+    "instructions": [
+        "instruction1"
+        "instruction2"
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breath-take": "inhale down exhale up"
+}

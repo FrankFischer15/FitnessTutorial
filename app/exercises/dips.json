@@ -1,0 +1,16 @@
+{
+    "name": "dips",
+    "imageUrl": [
+        "images/dips.png"
+        "images/dips.png"
+        "images/dips.png"
+    ],
+    "area": "arms",
+    "instructions": [
+        "instruction1"
+        "instruction2"
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breath-take": "inhale down exhale up"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "situps",
+    "imageUrl": [
+        "images/situp.png",
+        "images/situp.png",
+        "images/situp.png"
+    ],
+    "area": "core",
+    "instructions": [
+        "instruction1"
+        "instruction2"
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breath-take": "inhale down exhale up"
+}
