@@ -24,12 +24,14 @@
         </div>
     </div>
     <hr>
-    <div class="row">
-        <div class="col-sm-1"></div>
-        <div ng-repeat="targetArea in muscleGroups | orderBy:orderProp" class="col-sm-2 muscleGroup">
+    <div
+    class="row"
+    ng-repeat="targetAreas in muscleGroups | groupBy:3">
+        <div
+        class="col-sm-4 muscleGroup"
+        ng-repeat="targetArea in targetAreas">
             <a href="#/muscleGroup/{{targetArea.muscleGroup}}"><h2>{{targetArea.muscleGroup}}</h2></a>
             <a href="#/muscleGroup/{{targetArea.muscleGroup}}"><img src="{{targetArea.imageUrl}}" /></a>
         </div>
-        <div class="col-sm-1"></div>
     </div>
 </div>

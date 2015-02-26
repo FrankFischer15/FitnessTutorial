@@ -35,6 +35,5 @@ fitnessTutorialControllers.controller('detailsCtrl', ['$scope','$routeParams', '
         $http.get('exercises/' + $routeParams.exerciseId + '.json').success(function(data) {
             $scope.exercise = data;
         });
-        console.log('exercises/' + $routeParams.exerciseId + '.json');
     }]);
 

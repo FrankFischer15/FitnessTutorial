@@ -7,19 +7,19 @@
         </div>
         <div class="collapse navbar-collapse" id="btnCollapse">
             <ul class="nav navbar-nav pull-right">
-                <li><a href="#">do's and don'ts</a>
+                <li><a href="#/home">do's and don'ts</a>
                 </li>
-                <li><a href="#">tips</a>
+                <li><a href="#/home">tips</a>
                 </li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Muscle Groups <span class="caret"></span></a>
+                    <a href="#/home" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Muscle Groups <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                         <li ng-repeat="targetArea in muscleGroups | orderBy:orderProp"><a href="#/exercises/{{targetArea.muscleGroup}}">{{targetArea.muscleGroup}}</a>
                         </li>
                     </ul>
                 </li>
                 <li>
-                    <a href="/home" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Exercises <span class="caret"></span></a>
+                    <a href="#/home" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Exercises <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
 
                         <li ng-repeat="exercise in exercises | filter:query | orderBy:orderProp"><a href="#/exercises/{{exercise.id}}">{{exercise.name}}</a>

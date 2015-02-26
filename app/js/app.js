@@ -2,7 +2,8 @@
 
 var fitnessTutorialApp = angular.module('fitnessTutorialApp', [
 	'ngRoute',
-	'fitnessTutorialControllers'
+	'fitnessTutorialControllers',
+	'angular.filter'
 	// 'fitnessTutorialServices'
 	]);
 

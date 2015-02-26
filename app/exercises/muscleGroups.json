@@ -13,4 +13,7 @@
 }, {
     "muscleGroup": "Legs",
     "imageUrl": "images/placeHolder.png"
+}, {
+    "muscleGroup": "All",
+    "imageUrl": "images/placeHolder.png"
 }]
