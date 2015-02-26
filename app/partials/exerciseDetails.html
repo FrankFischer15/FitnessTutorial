@@ -1,2 +1,30 @@
-<h1>{{exercise.name}}</h1>
-<img src="{{exercise.imageUrl[0]}}" />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>{{exercise.name}}</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            <h2>Description</h2>
+            <p>{{exercise.description}}</p>
+        </div>
+        <div class="col-md-6">
+        	<h3>{{exercise.images.image_1.Title}}</h3>
+            <img src="{{exercise.images.image_1.ImageUrl}}" />
+            <h3>Exhale Up. Inhale Down</h3>
+        </div>
+        <div class="col-md-3">
+                <h2>Focuses</h2>
+                <ul>
+                	<li ng-repeat="focus in exercise.focuses">{{focus}}</li>
+                </ul>
+                
+        </div>
+    </div>
+    <hr />
+    <footer>
+    	<p>Do warm-up 8 cool-down exercises prior to & after squats! Still unsure or feeling any pain or discomfort? Immediately consult with your trainer or even your physician!</p>
+    </footer>
+</div>
