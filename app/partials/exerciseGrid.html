@@ -1,0 +1,11 @@
+
+
+<div class="container">
+    <class="row" ng-repeat="exercise in exercises | orderBy:orderProp | filter: filterParam | groupBy:3">
+        <div class="col-sm-4 muscleGroup" ng-repeat="userChoice in exercise">
+            <a href="#/exercises/{{userChoice.id}}"><h2>{{userChoice.name}}</h2></a>
+            <a href="#/exercises/{{userChoice.id}}"><img src="{{userChoice.imageUrl}}" />
+            </a>
+        </div>
+</div>
+</div>

@@ -1,19 +1,19 @@
 [{
-    "muscleGroup": "Arms",
+    "muscleGroup": "arms",
     "imageUrl": "images/placeHolder.png"
 }, {
-    "muscleGroup": "Chest",
+    "muscleGroup": "chest",
     "imageUrl": "images/placeHolder.png"
 }, {
-    "muscleGroup": "Back",
+    "muscleGroup": "back",
     "imageUrl": "images/placeHolder.png"
 }, {
-    "muscleGroup": "Core",
+    "muscleGroup": "core",
     "imageUrl": "images/placeHolder.png"
 }, {
-    "muscleGroup": "Legs",
+    "muscleGroup": "legs",
     "imageUrl": "images/placeHolder.png"
 }, {
-    "muscleGroup": "All",
+    "muscleGroup": "all",
     "imageUrl": "images/placeHolder.png"
 }]

@@ -14,13 +14,23 @@ fitnessTutorialApp.config(['$routeProvider',
 			templateUrl: 'partials/home.html',
 			controller: 'homeCtrl',
 		}).
-		when('/muscleGroup/:groupName', {
-			templateUrl: 'partials/groupGrid.html',
-			controller: 'gridCtrl'
+		when('/muscleGroup/all', {
+			templateUrl: 'partials/exerciseGrid.html',
+			controller: 'allCtrl'
+		}).
+		when('/muscleGroup/:muscleGroup', {
+			templateUrl: 'partials/exerciseGrid.html',
+			controller: 'groupCtrl'
 		}).
 		when('/exercises/:exerciseId', {
 			templateUrl: 'partials/exerciseDetails.html',
 			controller: 'detailsCtrl'
+		}).
+		when('/dos-donts', {
+			templateUrl: 'partials/dos-donts.html'
+		}).
+		when('/tips', {
+			templateUrl: 'partials/tips.html'
 		}).
 		otherwise({
 			redirectTo: '/home'

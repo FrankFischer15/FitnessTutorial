@@ -2,76 +2,91 @@
     {
         "name": "Arms 1",
         "id": "Arms_1",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "arms"
     },
     {
         "name": "Arms 2",
         "id": "Arms_2",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "arms"
     },
     {
         "name": "Arms 3",
         "id": "Arms_3",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "arms"
     },
     {
         "name": "Back 1",
         "id": "Back_1",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "back"
     },
     {
         "name": "Back 2",
         "id": "Back_2",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "back"
     },
     {
         "name": "Back 3",
         "id": "Back_3",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "back"
     },
     {
         "name": "Chest 1",
         "id": "Chest_1",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "chest"
     },
     {
         "name": "Chest 2",
         "id": "Chest_2",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "chest"
     },
     {
         "name": "Chest 3",
         "id": "Chest_3",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "chest"
     },
     {
         "name": "Core 1",
         "id": "Core_1",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "core"
     },
     {
         "name": "Core 2",
         "id": "Core_2",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "core"
     },
     {
         "name": "Core 3",
         "id": "Core_3",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "core"
     },
     {
         "name": "Legs 1",
         "id": "Legs_1",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "legs"
     },
     {
         "name": "Legs 2",
         "id": "Legs_2",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "legs"
     },
     {
         "name": "Legs 3",
         "id": "Legs_3",
-        "imageUrl": "images/placeHolder.png"
+        "imageUrl": "images/placeHolder.png",
+        "muscleGroup": "legs"
     }
 ]

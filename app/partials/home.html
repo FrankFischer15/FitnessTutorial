@@ -26,7 +26,7 @@
     <hr>
     <div
     class="row"
-    ng-repeat="targetAreas in muscleGroups | groupBy:3">
+    ng-repeat="targetAreas in muscleGroups | orderBy:orderProp | groupBy:3">
         <div
         class="col-sm-4 muscleGroup"
         ng-repeat="targetArea in targetAreas">
