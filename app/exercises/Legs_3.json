@@ -1,10 +1,31 @@
 {
     "name": "Legs 3",
-    "imageUrl": [
-        "images/placeHolder.png",
-        "images/placeHolder.png",
-        "images/placeHolder.png"
+    "images": {
+        "image_1": {
+            "Title": "Image 1",
+            "ImageUrl": "images/squat.png"
+        },
+        "image_2": {
+            "Title": "Image 2",
+            "ImageUrl": "images/squat.png"
+        },
+        "image_3": {
+            "Title": "Image 3",
+            "ImageUrl": "images/squat.png"
+        }
+    },
+
+    "description": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+    "focuses": [
+        "focus 1",
+        "focus 2",
+        "focus 3",
+        "focus 4",
+        "focus 5",
+        "focus 6",
+        "focus 7"
     ],
+
     "area": "legs",
     "instructions": [
         "instruction1",
