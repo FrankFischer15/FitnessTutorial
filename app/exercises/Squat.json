@@ -1,5 +1,5 @@
 {
-    "name": "Legs 1",
+    "name": "Squat",
     "images": {
         "image_1": {
             "Title": "Image 1",
@@ -15,7 +15,7 @@
         }
     },
 
-    "description": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+    "description": "The squat is a compound, full body exercise that trains primarily the muscles of the thighs, hips and buttocks, quadriceps, hamstrings, as well as strengthening the bones and insertion of the tendons throughout the lower body. Squats are a vital exercise for increasing the strength and size of the legs and buttocks. The movement begins from a standing position. Weights are often used, either in the hand or as a bar braced across the shoulder blade. The movement is initiated by moving the hips back and bending the knees and hips to lower the torso and accompanying weight, then returning to the upright position.",
     "focuses": [
         "Look Straight AHEAD",
         "CHEST OUT, Shoulders Back",
@@ -33,5 +33,5 @@
         "instruction3"
     ],
     "breath-rep": "four-count",
-    "breath-take": "inhale down exhale up"
+    "breathtake": "Inhale Down, Exhale Up"
 }

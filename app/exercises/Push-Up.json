@@ -1,5 +1,5 @@
 {
-    "name": "Chest 1",
+    "name": "Push-Up",
     "images": {
         "image_1": {
             "Title": "Image 1",
@@ -15,7 +15,7 @@
         }
     },
 
-    "description": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+    "description": "The push-up is an effective exercise for developing the chest and shoulders. The primary muscles involved as you lower down and push back up to a starting position are your chest muscles, or pectoralis major and minor. The technique for a push-up is to place your hands on the floor so they're slightly outside shoulder-width. Spread your finers slightly out and have them pointed forward. Raise up onto your toes so that all of you body weight is on your hands and your feet. Contract your abdominals to keep your torso in a straight line and prevent arching your back or pointing your bottom in the air. Bend your elbows and lower your chest down toward the floor. One your elbows bend slightly beyond 90 degrees, push off the floor and extend them so that you return to starting position.",
     "focuses": [
         "HANDS UNDER SHOULDERS WITH FINGERS FACING FORWARD OR SLIGHTLY INWARD",
         "HEAD ALIGNED WITH SPINE AT ALL TIMES WITH EYES LOOKING SLIGHTLY AHEAD",
@@ -34,5 +34,5 @@
         "instruction3"
     ],
     "breath-rep": "four-count",
-    "breath-take": "inhale down exhale up"
+    "breathtake": "Inhale Down, Exhale Up"
 }

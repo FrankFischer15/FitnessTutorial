@@ -1,7 +1,7 @@
 [
     {
-        "name": "Arms 1",
-        "id": "Arms_1",
+        "name": "Dip",
+        "id": "Dip",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "arms"
     },
@@ -18,8 +18,8 @@
         "muscleGroup": "arms"
     },
     {
-        "name": "Back 1",
-        "id": "Back_1",
+        "name": "Pull-Up",
+        "id": "Pull-Up",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "back"
     },
@@ -36,8 +36,8 @@
         "muscleGroup": "back"
     },
     {
-        "name": "Chest 1",
-        "id": "Chest_1",
+        "name": "Push-Up",
+        "id": "Push-Up",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "chest"
     },
@@ -54,8 +54,8 @@
         "muscleGroup": "chest"
     },
     {
-        "name": "Core 1",
-        "id": "Core_1",
+        "name": "Sit-Up",
+        "id": "Sit-Up",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "core"
     },
@@ -72,8 +72,8 @@
         "muscleGroup": "core"
     },
     {
-        "name": "Legs 1",
-        "id": "Legs_1",
+        "name": "Squat",
+        "id": "Squat",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "legs"
     },
