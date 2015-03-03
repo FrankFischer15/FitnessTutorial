@@ -1,0 +1,35 @@
+{
+    "name": "Inverted Row",
+    "images": {
+        "image_1": {
+            "Title": "Image 1",
+            "ImageUrl": "images/pullup.png"
+        },
+        "image_2": {
+            "Title": "Image 2",
+            "ImageUrl": "images/pullup.png"
+        },
+        "image_3": {
+            "Title": "Image 3",
+            "ImageUrl": "images/pullup.png"
+        }
+    },
+
+    "description": "The Inverted Row is an exercise in weight training. It primarily works the muscles of the upper back-the trapezius and latissimus dorsi-as well as the biceps as a secondary muscle group. The suping row is normally carried out in three to five sets, but reprtitions depend on the type of training a lifter is using to make their required gains.",
+    "focuses": [
+        "Squeeze your shoulder blades back and down. Focus on pulling your shoulder blades down into your back pockets. ",
+        "Stop when your elbow and shoulder are in-line with one another.",
+        "Keep your ribs down. If you need to, take a big deep breath and drive your ribcage down towards your pelvic as you exhale to set your ribs in the right position.",
+        "Keep your glutes tight. Keeping your glutes tight and fully extending your hips will turn the inverted row into a full body strength and stability exercise. It will also prevent you from using momentum to perform the exercise.",
+        "Adjust your feet. Don't be afraid to adjust your feet in the middle of your set to make the exercise easier or harder. This will allow you to perform the exercise with good form while still being challenged."
+    ],
+
+    "area": "back",
+    "instructions": [
+        "instruction1",
+        "instruction2",
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breathtake": "Inhale Down, Exhale Up"
+}

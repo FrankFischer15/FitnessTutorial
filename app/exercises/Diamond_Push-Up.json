@@ -1,0 +1,36 @@
+{
+    "name": "Diamond Push-Up",
+    "images": {
+        "image_1": {
+            "Title": "Image 1",
+            "ImageUrl": "images/dips.png"
+        },
+        "image_2": {
+            "Title": "Image 2",
+            "ImageUrl": "images/dips.png"
+        },
+        "image_3": {
+            "Title": "Image 3",
+            "ImageUrl": "images/dips.png"
+        }
+    },
+
+    "description": "There are several variations besides the common Push-Up. These include bringing the thumbs and index fingers of both hands together (Diamond Push-Up) as well as having the elbows pointed towards the knees. These variations are intended to put greater emphasis on the triceps or shoulders, rather than the chest muscles. When both hands are unbalanced or on uneven surfaces, this exercise works the body core. Raising the feet or hands onto elevated surfaces during the exercise emphasizes the upper or lower pectorals, respectively. Raising the hands with the aid of push-up bars or a dumbbell allows for greater ROM (range of motion), providing further stress for the muscles. In most Push-Up variations, a person will be lifting about 65% of his or her body weight.",
+    "focuses": [
+        "Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms' length",
+        "Lower youself until your chest almost touches the floor as you inhale",
+        "Using your triceps and some of your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as your perform this step",
+        "After a second pause at the contracted postion, repeat the movement for the prescribed amount of repetitions.",
+        "If you are new at this exercise and do not have the strength to perform it, you can either bend your legs at the knees to take off resistance or perform the exercise against the wall instead of the floor.",
+        "For the most advanced lifters, you can place your feet at a high surface such as a bench in order to increase the resistance."
+    ],
+
+    "area": "arms",
+    "instructions": [
+        "instruction1",
+        "instruction2",
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breathtake": "Inhale Down, Exhale Up"
+}

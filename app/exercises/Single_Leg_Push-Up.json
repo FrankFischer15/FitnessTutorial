@@ -1,0 +1,35 @@
+{
+    "name": "Single Leg Push-Up",
+    "images": {
+        "image_1": {
+            "Title": "Image 1",
+            "ImageUrl": "images/pushup.png"
+        },
+        "image_2": {
+            "Title": "Image 2",
+            "ImageUrl": "images/pushup.png"
+        },
+        "image_3": {
+            "Title": "Image 3",
+            "ImageUrl": "images/pushup.png"
+        }
+    },
+
+    "description": "The Single Leg Push-Up works your lower-abdomincal muscles and places more demand on your chest and serratus anterior, an important posture muscle that runs from your chest and along your rib cage to your shoulder blade",
+    "focuses": [
+        "Place your right hand in a standard pushup position",
+        "Move your left hand a few inches forward",
+        "Raise your right leg and then lower your body until your chest nearly touches the floor",
+        "Push back to the starting position",
+        "Do half your reps, then switch arms and lefs and finish your set"
+    ],
+
+    "area": "chest",
+    "instructions": [
+        "instruction1",
+        "instruction2",
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breathtake": "Inhale Down, Exhale Up"
+}

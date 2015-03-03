@@ -1,0 +1,36 @@
+{
+    "name": "Six Inches",
+    "images": {
+        "image_1": {
+            "Title": "Image 1",
+            "ImageUrl": "images/situp.png"
+        },
+        "image_2": {
+            "Title": "Image 2",
+            "ImageUrl": "images/situp.png"
+        },
+        "image_3": {
+            "Title": "Image 3",
+            "ImageUrl": "images/situp.png"
+        }
+    },
+
+    "description": "Six-inch leg raise exercises, also called leg-lift exercises, are a good way of toning the lower abdomincal muscles. They can also tone the calves and the thighs, and help you with balance and felxibility. They are called six-inch leg raise exercises because, if done properly, you should aim to lift your legs six inches from the floor.",
+    "focuses": [
+        "Begin lying flat on your back on the floor or on an exercise mat",
+        "Fully extend your body so your legs are straight and your arms rest at your sides with your palms flat on the ground",
+        "Keep your toes pointed upward",
+        "With your feet and legs together, lift your legs at the hip until they are 6 inches off the ground",
+        "Hold this position for two or three counts",
+        "Return to the starting position and repeat"
+    ],
+
+    "area": "core",
+    "instructions": [
+        "instruction1",
+        "instruction2",
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breathtake": "Inhale Down, Exhale Up"
+}

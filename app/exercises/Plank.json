@@ -1,0 +1,35 @@
+{
+    "name": "Plank",
+    "images": {
+        "image_1": {
+            "Title": "Image 1",
+            "ImageUrl": "images/situp.png"
+        },
+        "image_2": {
+            "Title": "Image 2",
+            "ImageUrl": "images/situp.png"
+        },
+        "image_3": {
+            "Title": "Image 3",
+            "ImageUrl": "images/situp.png"
+        }
+    },
+
+    "description": "The plank is an isometric core strength exercise that involves maintaining a difficult position for extended periods of time. The most common plank is the front plank which is held in a push-up position with the body's weight borne on forearms, elbows, and toes. The plank strengthens the abdominals, back, and shoulders.",
+    "focuses": [
+        "Keep the elbows under the shoulders (or you can do a plank on your hands)",
+        "Rise onto your toes, feet are just outside of hip-width",
+        "Pull your abdominals into the spine-keep them locked there",
+        "Squeeze the glutes",
+        "Add any harder options such as toe tapping in and out, pulsing back and forth, lifting lefs or arms OR make it easier by dropping to the knees"
+    ],
+
+    "area": "core",
+    "instructions": [
+        "instruction1",
+        "instruction2",
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breathtake": "Inhale Down, Exhale Up"
+}
