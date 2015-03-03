@@ -11,6 +11,10 @@ fitnessTutorialControllers.controller('navbarCtrl', ['$scope', '$http',
         $http.get('exercises/exercises.json').success(function(data) {
             $scope.exercises = data;
             $scope.orderProp = 'name';
+            setTimeout(function(){ 
+                $('.chosen-select').chosen();    
+            },
+            0);
         });
     }]);
 
