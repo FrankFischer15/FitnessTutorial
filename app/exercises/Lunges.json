@@ -1,0 +1,36 @@
+{
+    "name": "Lunges",
+    "images": {
+        "image_1": {
+            "Title": "Image 1",
+            "ImageUrl": "images/squat.png"
+        },
+        "image_2": {
+            "Title": "Image 2",
+            "ImageUrl": "images/squat.png"
+        },
+        "image_3": {
+            "Title": "Image 3",
+            "ImageUrl": "images/squat.png"
+        }
+    },
+
+    "description": "A lunge can refer to any position of the human body where one leg is positioned forward with knee bent and foot flat on the ground while the other lef is positioned behind. It is used by athletes in cross-training for sports, by weight-trainers as a fitness exercise. Lunges are a good exercise for strengthening, sculpting and building several muscles/muscle groups, including the quadriceps as well as the hamstrings.",
+    "focuses": [
+        "Stand with feet shoulder-width apart, hands on waist or with hands and arms hanging by your side",
+        "Look straight ahead, straighten your back and pull abdominal muscles in tight",
+        "Take a large step forward landing on heel first. The step should be long enough to where the back foot's heel lifts off the ground",
+        "Lower yourself, while breathing in, until your lefs are at a 90 degree andle with keeping your weight on forward heel. Your knee should line up over the top of foot and not over the toes",
+        "Push back up through the heel on the forward foot, while breathing out, to starting position",
+        "Continue on same left until desired repetitions are complete, then switch legs and repeat"
+    ],
+
+    "area": "legs",
+    "instructions": [
+        "instruction1",
+        "instruction2",
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breathtake": "Inhale Down, Exhale Up"
+}

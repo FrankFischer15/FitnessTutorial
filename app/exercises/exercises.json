@@ -6,14 +6,14 @@
         "muscleGroup": "arms"
     },
     {
-        "name": "Arms 2",
-        "id": "Arms_2",
+        "name": "Diamond Push-Up",
+        "id": "Diamond_Push-Up",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "arms"
     },
     {
-        "name": "Arms 3",
-        "id": "Arms_3",
+        "name": "Chin-Up",
+        "id": "Chin-Up",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "arms"
     },
@@ -24,14 +24,14 @@
         "muscleGroup": "back"
     },
     {
-        "name": "Back 2",
-        "id": "Back_2",
+        "name": "Inverted Row",
+        "id": "Inverted_Row",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "back"
     },
     {
-        "name": "Back 3",
-        "id": "Back_3",
+        "name": "Verticle Push-Up",
+        "id": "Verticle_Push-Up",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "back"
     },
@@ -42,14 +42,14 @@
         "muscleGroup": "chest"
     },
     {
-        "name": "Chest 2",
-        "id": "Chest_2",
+        "name": "Alternating Push-Up",
+        "id": "Alternating_Push-Up",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "chest"
     },
     {
-        "name": "Chest 3",
-        "id": "Chest_3",
+        "name": "Single Leg Push-Up",
+        "id": "Single_Leg_Push-Up",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "chest"
     },
@@ -60,14 +60,14 @@
         "muscleGroup": "core"
     },
     {
-        "name": "Core 2",
-        "id": "Core_2",
+        "name": "Plank",
+        "id": "Plank",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "core"
     },
     {
-        "name": "Core 3",
-        "id": "Core_3",
+        "name": "Six Inches",
+        "id": "Six_Inches",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "core"
     },
@@ -78,14 +78,14 @@
         "muscleGroup": "legs"
     },
     {
-        "name": "Legs 2",
-        "id": "Legs_2",
+        "name": "Wall Sit",
+        "id": "Wall_Sit",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "legs"
     },
     {
-        "name": "Legs 3",
-        "id": "Legs_3",
+        "name": "Lunges",
+        "id": "Lunges",
         "imageUrl": "images/placeHolder.png",
         "muscleGroup": "legs"
     }
