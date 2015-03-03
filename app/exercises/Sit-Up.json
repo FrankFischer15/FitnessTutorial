@@ -1,5 +1,5 @@
 {
-    "name": "Core 3",
+    "name": "Sit-Up",
     "images": {
         "image_1": {
             "Title": "Image 1",
@@ -15,15 +15,11 @@
         }
     },
 
-    "description": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+    "description": "The sit-up is an abdominal strength training exercise commonly performed to stregthen the abdominal muscles. It is similar to a crunch, but sit-ups have a filler range of motion and condition additional muscles. Sit-ups target the hip flexors, and abdomin area.",
     "focuses": [
-        "focus 1",
-        "focus 2",
-        "focus 3",
-        "focus 4",
-        "focus 5",
-        "focus 6",
-        "focus 7"
+        "Lay with your back on the floor with arms across your chest and your knees bent",
+        "Elevate both the upper and lower vertabrae from the floor until everything superior to the buttocks is not touching the ground"
+        
     ],
 
     "area": "core",

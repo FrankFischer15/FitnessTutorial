@@ -1,0 +1,35 @@
+{
+    "name": "Dip",
+    "images": {
+        "image_1": {
+            "Title": "Image 1",
+            "ImageUrl": "images/dips.png"
+        },
+        "image_2": {
+            "Title": "Image 2",
+            "ImageUrl": "images/dips.png"
+        },
+        "image_3": {
+            "Title": "Image 3",
+            "ImageUrl": "images/dips.png"
+        }
+    },
+
+    "description": "The dip is an exercise used in strength training. Narrow, shoulder-width dips primarily train the triceps and arms area. To perform a dip, the exerciser hangs from a dip bar or from a set of rings with his arms straight down and shoulders over his hands, then lowers his body until his arms are bent to a 90 degree angle at the elbows, and then lifts his body up, returning to the starting position. Short people are able to cope better with a narrower grip, but not with a wider one. Due to natural flexibility in the shoulder joints, it is important to try to lock them as much as possible during this exercise. Otherwise, the supporting rotator cuffs may become strained.", 
+    "focuses": [
+        "Mount shoulder width dip bar",
+        "Arms straight with shoulders above hands",
+        "Keep hips straight",
+        "Advance lifters can add weight by using a weight belt that allows the addition of weighted plates",
+        "If you are new to the exercise and do not have the strength to perform it, use a dip assist machine if available"
+    ],
+
+    "area": "arms",
+    "instructions": [
+        "instruction1",
+        "instruction2",
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breathtake": "Inhale Down, Exhale Up"
+}

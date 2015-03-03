@@ -1,0 +1,36 @@
+{
+    "name": "Pull-Up",
+    "images": {
+        "image_1": {
+            "Title": "Image 1",
+            "ImageUrl": "images/pullup.png"
+        },
+        "image_2": {
+            "Title": "Image 2",
+            "ImageUrl": "images/pullup.png"
+        },
+        "image_3": {
+            "Title": "Image 3",
+            "ImageUrl": "images/pullup.png"
+        }
+    },
+
+    "description": "The pull up is perhaps the best exercise you can do if you want to build a strong, lean upper body. All you need is a bar that will support your weight. The pull ups is known as a back exercise for good reason. Your lats and traps are heavily involved in the pull up movement. They are the most visible muscles in your back. Improving your pull ups is a great way to build a powerful looking back. ",
+    "focuses": [
+        "Hang from a bar with a pronated grip",
+        "Place your hands about shoulder-width apart",
+        "Pull up and raise your body until your chin reaches the same height as the bar",
+        "Avoid swinging or kipping as you pull",
+        "Lower yourself back to the starting position",
+        "Make sure you fully extend your arms"
+    ],
+
+    "area": "back",
+    "instructions": [
+        "instruction1",
+        "instruction2",
+        "instruction3"
+    ],
+    "breath-rep": "four-count",
+    "breathtake": "Inhale Down, Exhale Up"
+}
