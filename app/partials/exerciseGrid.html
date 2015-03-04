@@ -1,9 +1,14 @@
 <div class="container">
     <div class="row">
-        <div class="col-md-2 col-md-offset-5">
+        <div class="col-sm-12">
+            <h1>{{filterParam.muscleGroup}}</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-2 col-sm-offset-5">
         	<input ng-model="query" placeholder="Search Exercises" class="gridSearch" />
         </div>
-        <div class="col-md-5">
+        <div class="col-sm-5">
         </div>
     </div>
     <div class="row" ng-repeat="exercise in exercises | orderBy:orderProp | filter:filterParam | filter:query | groupBy:3">
