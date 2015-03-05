@@ -19,14 +19,6 @@
                     </ul>
                 </li>
                 <li>
-                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Exercises <span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu">
-
-                        <li ng-repeat="exercise in exercises | orderBy:orderProp"><a class="selection" href="#/exercises/{{exercise.id}}">{{exercise.name}}</a>
-                        </li>
-                    </ul>
-                </li>
-                <li>
                     <select data-placeholder="Exercises" class="chosen-select" onchange="window.location=this.options[this.selectedIndex].value;">
                         <option value="">Exercises <span class="caret"></span></option>
                         <option ng-repeat="exercise in exercises" value="#/exercises/{{exercise.id}}"><a href="#/exercises/{{exercise.id}}">{{exercise.name}}</a></option>
