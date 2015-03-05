@@ -7,20 +7,20 @@
         </div>
         <div class="collapse navbar-collapse" id="btnCollapse">
             <ul class="nav navbar-nav pull-right">
-                <li><a href="#/dos-donts">do's and don'ts</a>
+                <li><a class="nav-link" href="#/dos-donts">Do's and Don'ts</a>
                 </li>
-                <li><a href="#/tips">tips</a>
+                <li><a class="nav-link" href="#/tips">Tips</a>
                 </li>
                 <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Muscle Groups <span class="caret"></span></a>
+                    <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-expanded="false">Muscle Groups</a>
                     <ul class="dropdown-menu" role="menu">
                         <li ng-repeat="targetArea in muscleGroups | orderBy:orderProp"><a class="selection" href="#/muscleGroup/{{targetArea.muscleGroup}}">{{targetArea.muscleGroup}}</a>
                         </li>
                     </ul>
                 </li>
                 <li>
-                    <select data-placeholder="Exercises" class="chosen-select" onchange="window.location=this.options[this.selectedIndex].value;">
-                        <option value="">Exercises <span class="caret"></span></option>
+                    <select data-placeholder="Exercises" class="chosen-select nav-link" onchange="window.location=this.options[this.selectedIndex].value;">
+                        <option value="">Exercises</option>
                         <option ng-repeat="exercise in exercises" value="#/exercises/{{exercise.id}}"><a href="#/exercises/{{exercise.id}}">{{exercise.name}}</a></option>
                     </select>   
                 </li>
