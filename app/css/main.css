@@ -62,4 +62,29 @@
 .jumbotron {
   background: url(../images/backgroundlarge.png) no-repeat center; }
 
+.image {
+  border: 5px solid black;
+  width: 100%;
+  height: auto; }
+
+.picture {
+  width: 100%;
+  height: auto; }
+
+.list h3 {
+  text-decoration: underline; }
+.list li {
+  font-weight: bold;
+  font-size: 1.5em; }
+
+.tips h3 {
+  text-decoration: underline; }
+.tips li {
+  font-weight: bold;
+  font-size: 1.5em; }
+
+.hydrate {
+  width: 100%;
+  height: auto; }
+
 /*# sourceMappingURL=main.css.map */
