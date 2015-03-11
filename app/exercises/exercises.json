@@ -2,91 +2,91 @@
     {
         "name": "Dip",
         "id": "Dip",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/dip.gif",
         "muscleGroup": "arms"
     },
     {
         "name": "Diamond Push-Up",
         "id": "Diamond_Push-Up",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/diamondpushup.gif",
         "muscleGroup": "arms"
     },
     {
         "name": "Chin-Up",
         "id": "Chin-Up",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/chinup.gif",
         "muscleGroup": "arms"
     },
     {
         "name": "Pull-Up",
         "id": "Pull-Up",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/pullup.gif",
         "muscleGroup": "back"
     },
     {
         "name": "Inverted Row",
         "id": "Inverted_Row",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/invertedrow.gif",
         "muscleGroup": "back"
     },
     {
         "name": "Wide Pull-Up",
         "id": "Wide_Pull-Up",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/widepullup.gif",
         "muscleGroup": "back"
     },
     {
         "name": "Push-Up",
         "id": "Push-Up",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/pushup.gif",
         "muscleGroup": "chest"
     },
     {
         "name": "Alternating Push-Up",
         "id": "Alternating_Push-Up",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/alternatepushup3.gif",
         "muscleGroup": "chest"
     },
     {
         "name": "Single Leg Push-Up",
         "id": "Single_Leg_Push-Up",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/singlelegpushup.gif",
         "muscleGroup": "chest"
     },
     {
         "name": "Sit-Up",
         "id": "Sit-Up",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/situp.gif",
         "muscleGroup": "core"
     },
     {
         "name": "Plank",
         "id": "Plank",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/plank1.jpg",
         "muscleGroup": "core"
     },
     {
         "name": "Six Inches",
         "id": "Six_Inches",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/sixinches1.jpg",
         "muscleGroup": "core"
     },
     {
         "name": "Squat",
         "id": "Squat",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/squat.gif",
         "muscleGroup": "legs"
     },
     {
         "name": "Wall Sit",
         "id": "Wall_Sit",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/wallsit1.jpg",
         "muscleGroup": "legs"
     },
     {
         "name": "Lunges",
         "id": "Lunges",
-        "imageUrl": "images/placeHolder.png",
+        "imageUrl": "images/lunges.gif",
         "muscleGroup": "legs"
     }
 ]
