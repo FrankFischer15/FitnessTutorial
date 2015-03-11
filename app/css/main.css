@@ -4,6 +4,14 @@
   border-radius: 0;
   margin-bottom: 0; }
 
+.navbar-brand {
+  font-size: 24px;
+  color: #FF6600; }
+
+.navbar-brand:hover {
+  font-weight: bold;
+  color: #FF6600; }
+
 .nav-link {
   color: #FFFFFF;
   font-size: 16px;
@@ -19,6 +27,11 @@
 .dropdown-menu li a {
   color: #FF6600; }
 
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+  color: #003366;
+  text-decoration: none;
+  background-color: #FF6600; }
+
 .chosen-container-single .chosen-single {
   background: transparent;
   color: #FFFFFF;
@@ -32,7 +45,8 @@
   height: auto; }
 
 .chosen-container-single .chosen-single:hover {
-  background-color: #eee; }
+  background-color: #eee;
+  color: #003366; }
 
 .chosen-container-single .chosen-single span {
   width: auto;
@@ -59,12 +73,30 @@
   color: #003366;
   background: #FF6600; }
 
+.selection {
+  text-transform: capitalize; }
+
 body {
   background: #FF6600; }
 
 h1, h2, h3 {
   text-align: center;
   color: #003366; }
+
+.jumbotron {
+  background: url(../images/bg.jpg) center no-repeat;
+  height: 400px;
+  color: white; }
+
+.muscleGroup a {
+  text-align: center;
+  text-transform: capitalize;
+  width: auto;
+  height: auto; }
+
+.muscleGroup img {
+  width: 100%;
+  height: auto; }
 
 .image {
   border: 5px solid black;
@@ -74,7 +106,7 @@ h1, h2, h3 {
 .picture {
   width: 100%;
   height: auto;
-  padding-top: 5px; }
+  padding-top: 25px; }
 
 .list h3 {
   text-decoration: underline; }
@@ -92,3 +124,19 @@ h1, h2, h3 {
   width: 100%;
   height: auto;
   padding-bottom: 5px; }
+
+.muscleHeader {
+  text-transform: capitalize; }
+
+.gridSearch {
+  border: none;
+  border-radius: 15px;
+  padding: 15px;
+  background: #eee;
+  width: 100%;
+  text-align: center; }
+
+.gridSearch:focus {
+  outline: none; }
+
+/*# sourceMappingURL=main.css.map */

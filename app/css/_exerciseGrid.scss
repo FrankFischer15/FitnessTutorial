@@ -1,0 +1,14 @@
+.muscleHeader {
+	text-transform: capitalize;
+}
+.gridSearch {
+	border: none;
+	border-radius: 15px;
+	padding: 15px;
+	background: #eee;
+	width: 100%;
+	text-align: center;
+}
+.gridSearch:focus {
+	outline: none;
+}

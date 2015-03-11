@@ -5,3 +5,18 @@ h1, h2, h3 {
 		text-align: center;
 		color: #003366;
 }
+.jumbotron {
+	background: url(../images/bg.jpg) center no-repeat;
+	height: 400px;
+	color: white;
+}
+.muscleGroup a {
+	text-align: center;
+	text-transform: capitalize;
+	width: auto;
+	height: auto;
+}
+.muscleGroup img {
+	width: 100%;
+	height: auto;	
+}
