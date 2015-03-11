@@ -14,13 +14,13 @@
     {
         "name": "Chin-Up",
         "id": "Chin-Up",
-        "imageUrl": "images/chinup.gif",
+        "imageUrl": "images/chinupalt.gif",
         "muscleGroup": "arms"
     },
     {
         "name": "Pull-Up",
         "id": "Pull-Up",
-        "imageUrl": "images/pullup.gif",
+        "imageUrl": "images/pullupalt.gif",
         "muscleGroup": "back"
     },
     {
