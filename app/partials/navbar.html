@@ -21,7 +21,7 @@
                 <li>
                     <select data-placeholder="Exercises" class="chosen-select nav-link" onchange="window.location=this.options[this.selectedIndex].value;">
                         <option value="">Exercises</option>
-                        <option ng-repeat="exercise in exercises" value="#/exercises/{{exercise.id}}"><a href="#/exercises/{{exercise.id}}">{{exercise.name}}</a></option>
+                        <option ng-repeat="exercise in exercises | orderBy:orderProp" value="#/exercises/{{exercise.id}}"><a href="#/exercises/{{exercise.id}}">{{exercise.name}}</a></option>
                     </select>   
                 </li>
             </ul>
