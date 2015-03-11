@@ -1,11 +1,11 @@
 .navbar {
     height: auto;
-    background: black;
+    background: #003366;
     border-radius: 0;
     margin-bottom: 0;
 }
 .nav-link {
-    color: white;
+    color: #FFFFFF;
     font-size: 16px;
     border-radius: 5px;
     width: 160px;
@@ -13,15 +13,15 @@
     text-align: center;
 }
 .dropdown-menu {
-    background: black;
+    background: #003366;
     border-radius: 5px;
 }
 .dropdown-menu li a {
-    color: #eee;
+    color: #FF6600;
 }
 .chosen-container-single .chosen-single {
     background: transparent;
-    color: white;
+    color: #FFFFFF;
     border: none;
     border-radius: 5px;
     box-shadow: none;
@@ -46,16 +46,16 @@
     display: none;
 }
 .chosen-container .chosen-drop {
-    background: black;
+    background: #003366;
     border-radius: 5px;
 }
 .chosen-container-single .chosen-search input[type=text] {
-    background: #eee;
+    background: #FF6600;
 }
 .chosen-results li {
-    color: #eee;
+    color: #FF6600;
 }
 .chosen-container .chosen-results li.highlighted {
-    color: black;
-    background: #eee;
+    color: #003366;
+    background: #FF6600;
 }
