@@ -73,7 +73,8 @@ h1, h2, h3 {
 
 .picture {
   width: 100%;
-  height: auto; }
+  height: auto;
+  padding-top: 5px; }
 
 .list h3 {
   text-decoration: underline; }
@@ -89,6 +90,5 @@ h1, h2, h3 {
 
 .hydrate {
   width: 100%;
-  height: auto; }
-
-/*# sourceMappingURL=main.css.map */
+  height: auto;
+  padding-bottom: 5px; }
