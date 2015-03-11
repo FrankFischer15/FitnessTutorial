@@ -88,7 +88,7 @@ h1, h2, h3 {
   color: #003366; }
 
 .jumbotron {
-  background: url(../images/bg.jpg) center no-repeat;
+  background: url(bg.jpg) center no-repeat;
   height: 400px;
   color: white; }
 
@@ -101,6 +101,14 @@ h1, h2, h3 {
 .muscleGroup img {
   width: 100%;
   height: auto; }
+
+.motivate {
+  text-align: center;
+  margin-top: 50px;
+  color: #FF6600; }
+
+.center {
+  text-align: center; }
 
 .image {
   border: 5px solid black;
