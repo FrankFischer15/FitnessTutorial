@@ -1,19 +1,19 @@
 [{
     "muscleGroup": "arms",
-    "imageUrl": "images/placeHolder.png"
+    "imageUrl": "images/dip.gif"
 }, {
     "muscleGroup": "chest",
-    "imageUrl": "images/placeHolder.png"
+    "imageUrl": "images/pushup.gif"
 }, {
     "muscleGroup": "back",
-    "imageUrl": "images/placeHolder.png"
+    "imageUrl": "images/widepullup.gif"
 }, {
     "muscleGroup": "core",
-    "imageUrl": "images/placeHolder.png"
+    "imageUrl": "images/situp.gif"
 }, {
     "muscleGroup": "legs",
-    "imageUrl": "images/placeHolder.png"
+    "imageUrl": "images/squat.gif"
 }, {
     "muscleGroup": "all",
-    "imageUrl": "images/placeHolder.png"
+    "imageUrl": "images/singlelegpushup.gif"
 }]
