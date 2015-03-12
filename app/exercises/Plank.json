@@ -3,15 +3,15 @@
     "images": {
         "image_1": {
             "Title": "Image 1",
-            "ImageUrl": "images/plank1.JPG"
+            "ImageUrl": "images/plank1.jpg"
         },
         "image_2": {
             "Title": "Image 2",
-            "ImageUrl": "images/plank2.JPG"
+            "ImageUrl": "images/plank2.jpg"
         },
         "image_3": {
             "Title": "Image 3",
-            "ImageUrl": "images/plank1.JPG"
+            "ImageUrl": "images/plank1.jpg"
         }
     },
 
